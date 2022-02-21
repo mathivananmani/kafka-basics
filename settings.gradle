@@ -1,0 +1,5 @@
+rootProject.name = 'Twitter-Project'
+include 'DIY'
+include 'Twitter-Producer'
+include 'Twitter-Consumer'
+
